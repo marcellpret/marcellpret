@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Marcell Prét! 👋
 
 I'm a [Your Profession/Role] passionate about [Your Interests]. Welcome to my GitHub profile!
 
@@ -10,7 +10,7 @@ I'm a [Your Profession/Role] passionate about [Your Interests]. Welcome to my Gi
 
 ## GitHub Stats
 
-![GitHub stats](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+![GitHub stats](https://img.shields.io/github/followers/marcellpret?label=Followers&style=social)
 
 ## Projects
 
